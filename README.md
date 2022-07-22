@@ -66,13 +66,19 @@ CREATE TABLE `excel_download` (
  (jsp)
  
  js파일 import
+ 
  ![image](https://user-images.githubusercontent.com/16552382/180376678-59467a15-6593-4009-8493-99f4182e7d85.png)
 
  변수 선언 및 초기화
+ 
  -- formId (검색조건 form id)
+ 
  -- url (엑셀 내보내기를 수행할 url)
+ 
  -- initFn (엑셀 내보내기 수행  전 실행 될 함수)
+ 
  init(formId, url, initFn)
+ 
  ![image](https://user-images.githubusercontent.com/16552382/180376803-e1efc540-457f-42c5-a593-d8dac0b80c35.png)
 
  엑셀 내보내기 버튼에 excelDownload 클래스명 부여
