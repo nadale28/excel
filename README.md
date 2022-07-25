@@ -1,5 +1,13 @@
 # excel
 
+엑셀 출력시 작업 진행도를 사용자가 확인 할 수 있으며, 다운로드 보관함에서 언제든 다시 받을 수 있는 기능
+
+가장 큰 목적은 메모리 관리이며, rowhandler를 사용하여 대용량 엑셀 변환에도 outOfMemory 에러가 발생하지 않음
+ 
+![image](https://user-images.githubusercontent.com/16552382/180671709-ccdd202c-c495-45ff-a539-f0be07a35af3.png)
+
+
+
 [기본 세팅]
 
  1. le.excel 패키지 복사
@@ -84,3 +92,8 @@ CREATE TABLE `excel_download` (
  엑셀 내보내기 버튼에 excelDownload 클래스명 부여
  
  ![image](https://user-images.githubusercontent.com/16552382/180377321-786ee460-ab34-491d-b94d-08742fdbfb5a.png)
+ 
+ 엑셀 보관함 버튼에 excelDownloadBox 클래스명 부여
+ 
+ ![image](https://user-images.githubusercontent.com/16552382/180671623-8448f092-47b4-4b63-b877-a28292174ee9.png)
+
