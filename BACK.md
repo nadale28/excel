@@ -17,7 +17,7 @@
 
    ![image](https://user-images.githubusercontent.com/16552382/180364641-06383657-9feb-46af-9da8-57595fcd4e8d.png)
  
-## 5. Controller 구현 (파란색 부분은 수정, 빨간색 부분은 구현 필요)
+## 5. Controller 구현 (박스 부분은 각자 프로젝트에 맞게 설정)
    ![image](https://user-images.githubusercontent.com/16552382/182110295-2bae8b28-6fef-4799-bb51-284c78e8f9b5.png)
 
 ## 6. Service
